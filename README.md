@@ -32,3 +32,5 @@ My skills encompass the basics of Python and object-oriented programming, the ab
 </div>
 
 ## My stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ISSAA09&theme=dark&show_icons=true)
