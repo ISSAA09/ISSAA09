@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 </div>
 <h1 align="center">Hi there, i'm Ismayil 👋
-<h3 align="center">Python developer</h3>
+<h3 align="center">Python back-end developer</h3>
 
 <div id="badges" align="center">
   <a href="@Shafiyev">
