@@ -13,7 +13,9 @@
 </div>
 
 ## About me
-In 2022, I immersed myself in the world of programming for the first time and discovered how captivating Python can be. As I delved into learning this amazing language, I realized that my future is closely linked to the development in the field of programming. My skills encompass the basics of Python and object-oriented programming, the ability to work with databases and version control systems, as well as experience in testing web applications using unittest and understanding the importance of TDD. I have successfully studied Django (including Django Rest Framework), Git, PostgreSQL, Docker, and Bootstrap at a layout level. My approach to teamwork demonstrates my willingness to contribute, share knowledge, and learn from colleagues. I am always inspired by the opportunity to learn new technologies and the desire for continuous development and advancement in my professional career.
+In 2022, I immersed myself in the world of programming for the first time and discovered how captivating Python can be. As I delved into learning this amazing language, I realized that my future is closely linked to the development in the field of programming.
+
+My skills encompass the basics of Python and object-oriented programming, the ability to work with databases and version control systems, as well as experience in testing web applications using unittest and understanding the importance of TDD. I have successfully studied Django (including Django Rest Framework), Git, PostgreSQL, Docker, and Bootstrap at a layout level. My approach to teamwork demonstrates my willingness to contribute, share knowledge, and learn from colleagues. I am always inspired by the opportunity to learn new technologies and the desire for continuous development and advancement in my professional career.
 
 
 ## Languages and tools
